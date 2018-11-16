@@ -2,7 +2,8 @@ Hello, Git
 Hello
 Hello Again
 Updating README with new information
-"Fixing bug at file.txt" 
+"Another fix to Bug#1234" 
+"Fixing bug at file.txt"
 Clean
 oke
 Feature1
